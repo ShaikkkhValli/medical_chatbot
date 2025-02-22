@@ -8,3 +8,6 @@
 # add all dependencis to requirements.xtx
 # added template.py to create logging format and basic structure of foleds, this to create folders aumatically
 
+# Note: make sure packages are imported successfully . Test those imports first in any .ipynb file or .py file
+# The reason wouble some times packages might have depreciated
+
