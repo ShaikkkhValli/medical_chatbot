@@ -11,3 +11,14 @@
 # Note: make sure packages are imported successfully . Test those imports first in any .ipynb file or .py file
 # The reason wouble some times packages might have depreciated
 
+
+# steps to execute 
+# 1.execute store_index.py  --  to create indexes
+# ###############################################################################################################
+#         Note : This file has to be executed only one time to create the index for chunks .                   #
+#                 If we wanted to add another data (pdf), then this class has to be executed                   #
+# ###############################################################################################################
+
+# 2. helper.py is the service class
+# 3. template/chat.html is for chatbot interface
+# 4. static/style.css is css style for chatbot
